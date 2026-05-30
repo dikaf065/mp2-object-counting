@@ -1,7 +1,7 @@
 # Mini Project 2 — Object Counting (Hitung Jumlah Mobil)
 
-**Nama:** [Nama Kamu]
-**NRP:** [NRP Kamu]
+**Nama:** Andika Fathurrahman Achiral
+**NRP:** 5024221065
 **Mata Kuliah:** Pengolahan Citra dan Video
 
 ---
